@@ -1,3 +1,14 @@
 site_name: DagJag Home Office Dagmara Jagła
 theme:
   name: material
+  palette:
+    primary: red
+  language: pl
+  features:
+    - navigation.footer    
+extra:
+  social:
+    - icon: fontawesome/brands/instagram
+      link: https://www.instagram.com/czula_psychologia
+    - icon: fontawesome/brands/facebook
+      link: https://www.facebook.com/profile.php?id=61575120150818    
